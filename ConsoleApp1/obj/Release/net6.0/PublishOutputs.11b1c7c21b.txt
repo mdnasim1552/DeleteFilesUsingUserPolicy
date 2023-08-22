@@ -1,0 +1,5 @@
+C:\Users\mdnas\OneDrive\Desktop\PublishConsoleApp\ConsoleApp1.exe
+C:\Users\mdnas\OneDrive\Desktop\PublishConsoleApp\ConsoleApp1.dll
+C:\Users\mdnas\OneDrive\Desktop\PublishConsoleApp\ConsoleApp1.deps.json
+C:\Users\mdnas\OneDrive\Desktop\PublishConsoleApp\ConsoleApp1.runtimeconfig.json
+C:\Users\mdnas\OneDrive\Desktop\PublishConsoleApp\ConsoleApp1.pdb
